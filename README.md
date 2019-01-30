@@ -1,1 +1,1 @@
-Responsive Javascript Validation Form
+Responsive JavaScript Validation Form
